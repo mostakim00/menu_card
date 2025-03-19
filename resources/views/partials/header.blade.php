@@ -2,7 +2,7 @@
     <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-start">
         <div>
             <a class="navbar-brand brand-logo" href="#">
-                <img height="100%" width="100%" src="{{ asset('frontend/images/admin_logo.svg') }}" alt="Wasim Backend">
+                <img height="100%" width="50%" src="{{ asset('backend/assets/logo.jpg') }}" alt="Menu Card">
             </a>
             <a class="navbar-brand brand-logo-mini" href="#">
                 <img height="100%" width="100%" src="{{ asset('frontend/images/admin_logo.svg') }}"
